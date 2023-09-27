@@ -7,21 +7,6 @@
 - 😄 Pronouns: Ele/dele.
 - ⚡ Curiosidades: Toco Guitarra e já tive uma banda 😁
 
-##
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Elt0N-R0dr1g0&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Elt0N-R0dr1g0&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Elt0N-R0dr1g0&show_icons=true" />
-</picture>
-
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,11 +15,7 @@
   <img align="right" alt="Elton" height="150" style="border-radius:50px;" src="https://images.memberkit.com.br/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODBESHc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--6e54f3d4073381b1c8d7f9d6372c2d4a7574cf75/Captura%20de%20tela%202023-02-03%20220111.png?width=128&height=128">
 </div>
 
-##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elt0N-R0dr1g0&hide_progress=true)](https://github.com/Elt0N-R0dr1g0/github-readme-stats)
-
-##
 
 
 
