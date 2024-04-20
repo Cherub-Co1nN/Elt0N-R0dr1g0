@@ -12,8 +12,8 @@
 
 
 <br>  
-  <img align="center" alt="Typescript" height="40" width="40"
-src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/typescript.svg"
+  <img align="center" alt="Typescript" height="40" width="40"/>
+
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
 
 
