@@ -12,7 +12,7 @@
 
 
 <br>  
-  <img align="center" alt="Typescript" height="40" width="40"/>
+  
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
 
