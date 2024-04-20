@@ -12,13 +12,14 @@
 
 
 <br>  
-  <img align="center" alt="Typescript" height="30" width="40"
+  <img align="center" alt="Typescript" height="40" width="40"
 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/typescript.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="github" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+  <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
   <img align="right" alt="Elton" height="150" style="border-radius:50px;" src="https://images.memberkit.com.br/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODBESHc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--6e54f3d4073381b1c8d7f9d6372c2d4a7574cf75/Captura%20de%20tela%202023-02-03%20220111.png?width=128&height=128">
 </div>
 
