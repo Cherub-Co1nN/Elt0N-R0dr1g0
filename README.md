@@ -11,15 +11,15 @@
 <div style="display: inline_block"><br>
 
 
-<br>  
+<br> 
+  <img align="center" alt="github" height="40" width="40" src="https://cdn.simpleicons.org/simpleicons/eee/_">
   
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
-
-
   <img align="center" alt="github" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+  
   <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
