@@ -14,8 +14,8 @@
 <br>  
   <img align="center" alt="Typescript" height="40" width="40"
 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/typescript.svg"
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/blue/gray" />
->
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/eee/_" />
+
 
   <img align="center" alt="github" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
   <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
