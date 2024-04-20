@@ -12,7 +12,7 @@
 
 
 <br> 
-  <img align="center" alt="github" height="40" width="40" src="https://cdn.simpleicons.org/simpleicons/eee/_">
+  <img align="center" alt="typescript" height="40" width="40" src="https://cdn.simpleicons.org/typescript/blue/_">
   
   <img align="center" alt="github" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
   
