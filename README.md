@@ -12,6 +12,8 @@
 
 
 <br>  
+  <img align="center" alt="Typescript" height="30" width="40"
+src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/typescript.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
